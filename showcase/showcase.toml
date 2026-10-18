@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.json.gz"
+name = "A rally curving through the obstacles"
+
+[[media]]
+file = "rally.png"
+name = "Live play in Solo mode"
+
+[[media]]
+file = "bank-shot.png"
+name = "Banking around the spinning bars"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
